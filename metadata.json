@@ -1,0 +1,7 @@
+{
+  "name": "Aether AI Assistant",
+  "description": "A next-generation, immersive AI personal assistant featuring voice interaction, chat, and intelligent planning powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
